@@ -1,7 +1,10 @@
 {
   "name": "password-validator",
   "version": "0.1.0",
+<<<<<<< HEAD
   "homepage": "https://ANURAGGGGGGGGGGGG.github.io",  
+=======
+>>>>>>> d1e6162d0df1d99a1e174c02249d5b344eedf44d
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
