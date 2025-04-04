@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.26fe1171.css",
-    "main.js": "/static/js/main.244f4009.js",
-    "index.html": "/index.html",
-    "main.26fe1171.css.map": "/static/css/main.26fe1171.css.map",
-    "main.244f4009.js.map": "/static/js/main.244f4009.js.map"
+    "main.css": "/password-validator/static/css/main.26fe1171.css",
+    "main.js": "/password-validator/static/js/main.244f4009.js",
+    "index.html": "/password-validator/index.html",
+    "main.26fe1171.css.map": "/password-validator/static/css/main.26fe1171.css.map",
+    "main.244f4009.js.map": "/password-validator/static/js/main.244f4009.js.map"
   },
   "entrypoints": [
     "static/css/main.26fe1171.css",
